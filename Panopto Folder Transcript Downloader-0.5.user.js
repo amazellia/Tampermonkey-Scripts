@@ -4,10 +4,10 @@
 // @namespace    https://uoncapture.ap.panopto.com/
 // @version      0.5
 // @description  Adds a banner button (next to Stats) to download edited captions/transcripts for all sessions in the folder and zip them.
-// @author       Tim Garside
+// @author       Tim Garside, Amanda Viray
 // @match        https://uoncapture.ap.panopto.com/Panopto/Pages/Sessions/*
-// @updateURL    https://github.com/tim-garside/tampermonkey-scripts/raw/main/Panopto%20Folder%20Transcript%20Downloader.user.js
-// @downloadURL  https://github.com/tim-garside/tampermonkey-scripts/raw/main/Panopto%20Folder%20Transcript%20Downloader.user.js
+// @updateURL    https://github.com/amazellia/Tampermonkey-Scripts/blob/main/Panopto%20Folder%20Transcript%20Downloader-0.5.user.js
+// @downloadURL  https://github.com/amazellia/Tampermonkey-Scripts/blob/main/Panopto%20Folder%20Transcript%20Downloader-0.5.user.js
 // @grant        none
 // @require      https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js
 // ==/UserScript==
